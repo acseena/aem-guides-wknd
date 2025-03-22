@@ -1,6 +1,6 @@
 {
     "alloworigin":[
-      ""
+      "https://hacremoteapp-git-main-seenas-projects.vercel.app"
     ],
     "alloworiginregexp":[
       "http://localhost:.*"
